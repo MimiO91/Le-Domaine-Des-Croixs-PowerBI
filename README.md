@@ -15,22 +15,48 @@ Le projet s’appuie sur un jeu de données de plus de **130 000 vins** (région
 ---
 
 ## 🛠️ **Technologies & Outils**
+
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+      alt="Python" 
+      width="45" 
+      height="45"
+    />
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.png" alt="Power BI" width="45" height="45" />
+  &nbsp;&nbsp;
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://cdn.freelogovectors.net/wp-content/uploads/2022/02/power-bi-logo-freelogovectors.net_.png"
+      alt="Power BI"
+      width="45"
+      height="45"
+    />
   </a>
-  <a href="https://docs.microsoft.com/fr-fr/power-query/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Power_Query_Logo.png" alt="Power Query" width="45" height="45" />
+  &nbsp;&nbsp;
+  <!-- Power Query -->
+  <a href="https://docs.microsoft.com/fr-fr/power-query/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Power_Query_Logo.png" 
+      alt="Power Query" 
+      width="45" 
+      height="45"
+    />
   </a>
-  <a href="https://www.google.com/slides/about/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Slides_2020_Logo.svg" alt="Google Slides" width="45" height="45" />
+  &nbsp;&nbsp;
+  <!-- Google Slides -->
+  <a href="https://www.google.com/slides/about/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Slides_2020_Logo.svg" 
+      alt="Google Slides" 
+      width="45" 
+      height="45"
+    />
   </a>
 </p>
-
----
 
 ## 💡 **Fonctionnalités / Points Forts**
 ✅ **Tableaux de bord interactifs** sous Power BI pour une visualisation claire et intuitive  
